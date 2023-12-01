@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.license = 'MIT'
   s.homepage = 'https://github.com/konfig-dev/decentro-in-collections-sdk-swift/tree/main'
   s.summary = 'Decentro Swift SDK'
-  s.source_files = 'swift/Decentro/**/*.swift'
+  s.source_files = 'Decentro/**/*.swift'
   s.dependency 'AnyCodable-FlightSchool', '~> 0.6.1'
 end
